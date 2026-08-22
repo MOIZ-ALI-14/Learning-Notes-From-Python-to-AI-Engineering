@@ -1,0 +1,5 @@
+f = open("chapter 09/01_File.txt","r")
+data = f.read()
+print(data)
+print(type(data))
+f.close()

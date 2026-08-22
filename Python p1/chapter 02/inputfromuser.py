@@ -1,0 +1,5 @@
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
+print("first no is: ", a)
+print("second no is: ", b)
+print("multiplication is: ", a * b)
